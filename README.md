@@ -14,7 +14,7 @@ Este tema utiliza las versiones modificadas de los siguientes temas:
 
 <a href="https://github.com/adi1090x/polybar-themes">Shapes - Polybar Themes by adi1090x</a>
 
-<a href="https://github.com/adi1090x/rofi">Colorful & Powemenu - Rofi by by adi1090x</a>
+<a href="https://github.com/adi1090x/rofi">Colorful & Powemenu - Rofi by adi1090x</a>
 
 No se garantiza el uso inmediato de este tema, ya que ha sido modificado especificamente para su uso con BSPWM. Teoricamente puede funcionar con cualquier Window Manager.
 

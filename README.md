@@ -4,6 +4,9 @@
 Tema inspirado en la lata de Té Verde de Arizona.  
 </p>
 
+![image](https://user-images.githubusercontent.com/38513145/120564192-01752380-c3d0-11eb-9c6e-3bcc3ef9327e.png)
+
+
 ##
 
 ### Aviso
@@ -24,7 +27,8 @@ Los programas necesarios para utilizar este tema son:
 
 - **`Polybar`** : Barra superior
 - **`Rofi`** : App Launcher y Powermenu
-- **`networkmanager_dmenu`** : Modulos de red.
+- **`Alacritty`** : Terminal.
+
 
 Lista de fuentes e iconos utilizados
 
@@ -53,4 +57,4 @@ Lista de fuentes e iconos utilizados
 Tan facil como copiar y pegar la carpeta .config dentro de la carpeta de usuario.
 
 ### Recomendaciones
-Se recomienda utilizar este tema acompañado con el tema GTK3 WhiteSur Light Pink y Tela Icon Theme Manjaro.
+Se recomienda utilizar este tema acompañado con el tema GTK3 WhiteSur Light Pink, Tela Icon Theme Manjaro y Powerlevel10k para zsh.

@@ -16,11 +16,11 @@ Este tema utiliza las versiones modificadas de los siguientes temas:
 
 <a href="https://github.com/adi1090x/rofi">Colorful & Powemenu - Rofi by adi1090x</a>
 
-No se garantiza el uso inmediato de este tema, ya que ha sido modificado especificamente para su uso con BSPWM. Teoricamente puede funcionar con cualquier Window Manager.
+No se garantiza el uso inmediato de este tema, ya que ha sido modificado específicamente para su uso con BSPWM. Teóricamente puede funcionar con cualquier Window Manager.
 
-El tema fue creado en una resolución 1080p. Si se utiliza una resolución mayor o menor tendras que editar la configuración.
+El tema fue creado en una resolución 1080p. Si se utiliza una resolución mayor o menor se tendrá que editar la configuración.
 
-Este tema inició como mini proyecto personal, puede que en un futuro se modifique ampliandoló mucho mas o no.
+Este tema inició como mini proyecto personal, puede que en un futuro se modifique ampliandolo mucho mas o no.
 
 ### Dependencias
 Los programas necesarios para utilizar este tema son:
@@ -54,7 +54,8 @@ Lista de fuentes e iconos utilizados
 - Archivos de configuración para Alacritty
 
 ### Instalación
-Tan facil como copiar y pegar la carpeta .config dentro de la carpeta de usuario.
+Tan fácil como copiar y pegar la carpeta .config dentro de la carpeta de usuario.
 
 ### Recomendaciones
 Se recomienda utilizar este tema acompañado con el tema GTK3 WhiteSur Light Pink, Tela Icon Theme Manjaro y Powerlevel10k para zsh.
+

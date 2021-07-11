@@ -1,7 +1,7 @@
 <h2>Green Tea Theme</h2>
 
 <p>
-Tema inspirado en la lata de Té Verde de Arizona.  
+Rofi and polybar inspired by Arizona's green tea can. 
 </p>
 
 ![image](https://user-images.githubusercontent.com/38513145/120564192-01752380-c3d0-11eb-9c6e-3bcc3ef9327e.png)
@@ -9,30 +9,25 @@ Tema inspirado en la lata de Té Verde de Arizona.
 
 ##
 
-### Aviso
-Este tema utiliza las versiones modificadas de los siguientes temas:
+### Notice
+This theme is a fork of the next themes:
 
 <a href="https://github.com/adi1090x/polybar-themes">Shapes - Polybar Themes by adi1090x</a>
 
 <a href="https://github.com/adi1090x/rofi">Colorful & Powemenu - Rofi by adi1090x</a>
 
-No se garantiza el uso inmediato de este tema, ya que ha sido modificado específicamente para su uso con BSPWM. Teóricamente puede funcionar con cualquier Window Manager.
+The theme is build for 1080p. Mayor/minus resolution may need some work, I do not own a monitor with more or less resolution than 1080p so I will not work to fit the theme on other resolutions.
 
-El tema fue creado en una resolución 1080p. Si se utiliza una resolución mayor o menor se tendrá que editar la configuración.
+This is a personal proyecto, can be updated on the future or not.
 
-Este tema inició como mini proyecto personal, puede que en un futuro se modifique ampliandolo mucho mas o no.
+### Dependencies
 
-### Dependencias
-Los programas necesarios para utilizar este tema son:
-
-- **`Polybar`** : Barra superior
-- **`Rofi`** : App Launcher y Powermenu
-- **`Alacritty`** : Terminal.
+- **`Polybar`** 
+- **`Rofi`** 
+- **`Alacritty`** 
 
 
-Lista de fuentes e iconos utilizados
-
-**`Fuentes`**
+**`Fonts`**
 - Iosevka Nerd Font
 - Fantasque Sans Mono
 - Noto Sans
@@ -40,22 +35,17 @@ Lista de fuentes e iconos utilizados
 - Terminus
 - Noto Sans Regular
 
-**`Iconos`**
+**`Icons`**
 - Iosevka Nerd Font
 - Icomoon Feather
 - Material Icons
 - Waffle (Siji)
 
-### Contenido
-- Archivos de configuración para Polybar
-- Archivos de configuración para Rofi
-- Archivos de configuración para sxhkd
-- Archivos de configuración para BSPWM
-- Archivos de configuración para Alacritty
+### Content (config/dot files)
+- Polybar dot files.
+- Rofi dot files.
+- sxhkd dot files.
+- BSPWM dot files.
+- Alacritty config file.
 
-### Instalación
-Tan fácil como copiar y pegar la carpeta .config dentro de la carpeta de usuario.
-
-### Recomendaciones
-Se recomienda utilizar este tema acompañado con el tema GTK3 WhiteSur Light Pink, Tela Icon Theme Manjaro y Powerlevel10k para zsh.
 

@@ -1,7 +1,7 @@
 <h2>Green Tea Theme</h2>
 
 <p>
-Rofi and polybar inspired by Arizona's green tea can. 
+Rofi and polybar theme inspired by Arizona's green tea can. 
 </p>
 
 ![image](https://user-images.githubusercontent.com/38513145/120564192-01752380-c3d0-11eb-9c6e-3bcc3ef9327e.png)
